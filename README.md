@@ -39,7 +39,7 @@ Unity brain name: TennisBrain
 ```
 ### Getting Started
 
-Computations were done using python `3.6`. In addition, the following packages were mounted: **matplotlib**, **numpy**, **torch** and **unityagents** which is used to run the [Reacher environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher). More precisely,
+Computations were done using python `3.6`. In addition, the following packages were mounted: **matplotlib**, **numpy**, **torch** and **unityagents** which is used to run the [Unity tennis environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis).
 
 The python environment to run the code in this repository is set up by the following steps:
 
